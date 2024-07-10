@@ -22,7 +22,7 @@ name: 'WhaleKim의 개발일지'
 description: '개발과 창업의 꿈을 꿈꾸고 있는 주니어 개발, 기획자입니다.'
 url: 'https://WhaleKimm.github.io'
 logo: '/assets/images/logo3.png'
-masthead_title: 'Hello WhaleKim!'
+masthead_title: 'Hello WhaleKim!!!'
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'WhaleKimm/WhaleKimm.github.io'
 teaser: '/assets/images/sbnu.png'
@@ -174,7 +174,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: true
 
 # Markdown Processing
 kramdown:
@@ -206,7 +206,10 @@ plugins:
   - jekyll-feed
   #  - jemoji
   - jekyll-mermaid
-
+  - jekyll-livereload
+  - jekyll-include-cache
+livereload:
+  enable: true
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
