@@ -81,10 +81,10 @@ naver_site_verification:
 twitter:
   sername:
 facebook:
-  username: &facebook 'WhaleKimm'
+  username: 
   app_id:
   publisher:
-og_image: '/assets/images/mac_asb.jpg'
+og_image: '/assets/images/logo3.png'
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name: 'Oh Seungmin'
-  avatar: '/assets/images/mac_asb.jpg'
+  avatar: '/assets/images/logo3.png'
   bio: 'Hello, I am Seungmin.'
   location: 'Young in city,Korea'
   email: 'tmdals128551@gmail.com'
@@ -113,15 +113,15 @@ author:
   codepen:
   dribbble:
   flickr:
-  facebook: 'subinium'
+  facebook: 
   foursquare:
-  github: 'subinium'
+  github: "WhaleKimm"
   gitlab:
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: 'subin-an-841975110'
+  linkedin: 'seungminoh20010709'
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -131,7 +131,7 @@ author:
   vine:
   weibo:
   xing:
-  youtube: 'https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ'
+  youtube: 
 
 # Reading Files
 include:
@@ -279,24 +279,24 @@ defaults:
       comments: true
 
 # for Euler-Project diff variable
-diff:
-  - 5
-  - 10
-  - 15
-  - 20
-  - 25
-  - 30
-  - 35
-  - 40
-  - 45
-  - 50
-  - 55
-  - 60
-  - 65
-  - 70
-  - 75
-  - 80
-  - 85
-  - 90
-  - 95
-  - 100
+# diff:
+#   - 5
+#   - 10
+#   - 15
+#   - 20
+#   - 25
+#   - 30
+#   - 35
+#   - 40
+#   - 45
+#   - 50
+#   - 55
+#   - 60
+#   - 65
+#   - 70
+#   - 75
+#   - 80
+#   - 85
+#   - 90
+#   - 95
+#   - 100
