@@ -3,7 +3,7 @@ title: '창업 동아리' # 제목란
 category:
   - found
 tag:
-  - sample
+  - found
 sidebar_main: true
 use_math: true
 header:
@@ -11,7 +11,10 @@ header:
   overlay_image: /assets/images/whiteboard.png
 ---
 
-##7월 장마 시즌 토요일에 버스를 타고 학교에 도착했다.
+
+# **추적이는 여름**
+
+7월 장마 시즌 토요일에 버스를 타고 학교에 도착했다.
 
 집에 있으면 편하고 좋지만, 한편으론 나태해진다. 
 
@@ -19,4 +22,4 @@ header:
 
 쌓여있는 일들을 하나씩 해나가면서 성취감도 느끼지만, 나의 무능함도 깨달을 수 있다. 
 
-오늘도 힘내서 해보자. 다들 화이팅 ! 
+### 오늘도 힘내서 해보자. 다들 화이팅 ! 
