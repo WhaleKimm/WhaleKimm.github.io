@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/whiteboard.png
 ---
 
-7월 장마 시즌 토요일에 버스를 타고 학교에 도착했다.
+##7월 장마 시즌 토요일에 버스를 타고 학교에 도착했다.
 
 집에 있으면 편하고 좋지만, 한편으론 나태해진다. 
 
